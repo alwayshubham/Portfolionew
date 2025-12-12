@@ -21,12 +21,12 @@ const Projects = () => {
         "Implemented responsive UI for mobile and desktop",
         "Optimized performance using Next.js features like ISR",
       ],
-      Live: "https://weather-forecast-next-app-seven.vercel.app/",
-      codeLink: "https://github.com/deepakchandra4/weather-forecast-next-app",
+      Live: "https://vrdai.xyz/",
+      codeLink: "#",
     },
     {
       title: "Blog App — Full-Stack Blogging Platform",
-      image: "/images/projects/blog-app.png",
+      image: "/images/pro/earth.png",
       description:
         "A secure and modern full-stack blogging platform with authentication, real-time features, and responsive UI.",
       technologies: ["Next.js", "TypeScript", "Node.js", "MongoDB", "Tailwind CSS"],
@@ -36,8 +36,8 @@ const Projects = () => {
         "Added nested comments, tag filtering, and advanced search",
         "Integrated Cloudinary for image hosting and optimized performance with Next.js Image",
       ],
-      Live: "https://blog-app-omega-wheat.vercel.app/",
-      codeLink: "https://github.com/deepakchandra4/modern-blog-next-app/",
+      Live: "https://www.earthbyhumans.com/",
+      codeLink: "#",
     },
     {
       title: "PluginVerse",
@@ -49,13 +49,13 @@ const Projects = () => {
         "Optimized backend queries to enhance performance",
         "Set up CI/CD pipeline for smoother deployments",
       ],
-      Live: "#",
-      codeLink: "https://github.com/deepakchandra4/PluginVerse",
-      image: "/images/projects/pluginverse.png",
+      Live: "https://breakingthemonopoly.com/",
+      codeLink: "#",
+      image: "/images/pro/mono.png",
     },
     {
-      title: "Search Meal App",
-      image: "/images/projects/search-meal.png",
+      title: "Search Job App",
+      image: "/images/pro/jobs.png",
       description:
         "A recipe search application using an external API, with caching and responsive design for better UX.",
       technologies: ["JavaScript", "MealDB API", "HTML/CSS", "Caching"],
@@ -64,8 +64,8 @@ const Projects = () => {
         "Implemented caching to reduce API calls",
         "Achieved mobile-responsive layout using semantic HTML & CSS",
       ],
-      Live: "https://search-meal-amber.vercel.app/",
-      codeLink: "https://github.com/deepakchandra4/search-meal",
+      Live: "https://job-board-dun-phi.vercel.app/",
+      codeLink: "https://github.com/alwayshubham/job-board",
     },
   ];
 
@@ -82,7 +82,7 @@ const Projects = () => {
         "Built as a learning project for backend API development",
       ],
       Live: "#", // placeholder, will be ignored
-      codeLink: "https://github.com/deepakchandra4/bookshelf-api",
+      codeLink: "#",
     },
   ];
 

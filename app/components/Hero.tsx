@@ -12,7 +12,7 @@ const Hero = () => {
         </p>
         <p className="text-lg text-gray-400 max-w-3xl mx-auto mb-8">
           Passionate about building scalable web applications and leveraging AI tools to create innovative solutions. 
-          Experienced in MERN stack development with a focus on performance optimization and user experience.
+          Experienced in MERN stack  & NextJS development with a focus on performance optimization and user experience.
         </p>
         <div className="flex flex-wrap justify-center gap-4 mb-8">
           <div className="bg-[#0A1929]/50 backdrop-blur-sm px-4 py-2 rounded-lg border border-gray-700">

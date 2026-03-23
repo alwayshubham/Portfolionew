@@ -12,11 +12,12 @@ const About = () => {
         </h2>
         <div className="max-w-3xl mx-auto text-gray-300">
           <p className="mb-6">
-            I'm a passionate MCA graduate with expertise in full-stack
-            development using the MERN stack. I completed a 6-month internship
-            at Manak Analytics & Development Pvt Ltd, where I gained hands-on
-            experience in building responsive, high-performance web
-            applications.
+            I am a passionate MCA graduate with expertise in full-stack development 
+            using the MERN stack. I completed a 6-month internship at 
+            Aarna Tech Xperts & Development Pvt. Ltd., where I gained hands-on experience 
+            in building responsive, high-performance web applications. After completing my MCA, 
+            I also worked as a Web Developer Intern at DIFM LLC, further strengthening my practical 
+            skills and industry experience.
           </p>
           <p className="mb-6">
             During my internship, I contributed to improving user engagement

@@ -87,81 +87,81 @@ const Projects = () => {
   ];
 
 
-  const wordpressProjects = [
-    {
-      title: "Tan Workwear Website",
-      image: "/images/projects/tanworkwear.png",
-      description:
-        "A WordPress-based e-commerce platform featuring a custom theme and payment integration.",
-      technologies: ["WordPress", "WooCommerce", "PHP", "JavaScript", "CSS"],
-      achievements: [
-        "Designed a tailored WordPress theme for e-commerce",
-        "Integrated secure payment options",
-        "Optimized performance with lazy loading and image compression",
-      ],
-      Live: "https://tanworkwear.com.au/",
-      codeLink: "#",
-    },
-    {
-      title: "Western Digital Marketing",
-      image: "/images/projects/westerndigital.png",
-      description:
-        "A digital marketing agency site designed to boost conversions through SEO and lead generation.",
-      technologies: ["WordPress", "Elementor", "SEO", "Lead Generation"],
-      achievements: [
-        "Built a responsive agency website with Elementor",
-        "Included lead capture forms to generate inquiries",
-        "Applied SEO best practices for visibility",
-      ],
-      Live: "https://westerndigitalmarketing.com.au/",
-      codeLink: "#",
-    },
-    {
-      title: "Chippy Cabinets Website",
-      image: "/images/projects/chippyCabinets.png",
-      description:
-        "A premium joinery website showcasing custom cabinetry services across Melbourne with a focus on craftsmanship and client trust.",
-      technologies: ["WordPress", "Elementor", "Custom CSS", "SEO"],
-      achievements: [
-        "Built a conversion-driven WordPress website highlighting services and unique selling points",
-        "Emphasized expert craftsmanship, customer satisfaction, and diverse installations",
-        "Created sections like 'Why Choose Us' and 'Built for Life' for trust-building",
-        "Optimized layout and images for performance and SEO",
-      ],
-      Live: "https://chippycabinets.com.au/",
-      codeLink: "#",
-    },
-    {
-      title: "Aariv Diamonds & Jewellery Website",
-      image: "/images/projects/aarivjewellery.png",
-      description:
-        "A WordPress-based e-commerce platform for showcasing traditional and contemporary jewellery with a premium shopping experience.",
-      technologies: ["WordPress", "WooCommerce", "PHP", "JavaScript", "CSS"],
-      achievements: [
-        "Created a custom-designed WordPress theme tailored for jewellery e-commerce",
-        "Integrated secure WooCommerce payment and checkout functionalities",
-        "Showcased diverse collections including solitaires, kundan, polki, and gemstone jewellery",
-        "Optimized website speed and SEO with lazy loading and compressed media assets",
-        "Implemented responsive UI with high-quality visuals for mobile and desktop users",
-      ],
-      Live: "https://aarivjewellery.com/",
-      codeLink: "#",
-    },
-    {
-      title: "Gopalak Farms Shopify Website",
-      image: "/images/projects/gopalakfarms.png",
-      description:
-        "A Shopify-based e-commerce store for premium farm products with a clean, responsive design and smooth shopping experience.",
-      technologies: ["Shopify", "Liquid", "CSS", "JavaScript"],
-      achievements: [
-        "Built a clean, responsive Shopify store",
-        "Customized product pages using Liquid templates",
-        "Optimized store performance and mobile UX",
-      ],
-      Live: "https://gopalakfarms.com/",
-      codeLink: "#",
-    },
-  ];
+  // const wordpressProjects = [
+  //   {
+  //     title: "Tan Workwear Website",
+  //     image: "/images/projects/tanworkwear.png",
+  //     description:
+  //       "A WordPress-based e-commerce platform featuring a custom theme and payment integration.",
+  //     technologies: ["WordPress", "WooCommerce", "PHP", "JavaScript", "CSS"],
+  //     achievements: [
+  //       "Designed a tailored WordPress theme for e-commerce",
+  //       "Integrated secure payment options",
+  //       "Optimized performance with lazy loading and image compression",
+  //     ],
+  //     Live: "https://tanworkwear.com.au/",
+  //     codeLink: "#",
+  //   },
+  //   {
+  //     title: "Western Digital Marketing",
+  //     image: "/images/projects/westerndigital.png",
+  //     description:
+  //       "A digital marketing agency site designed to boost conversions through SEO and lead generation.",
+  //     technologies: ["WordPress", "Elementor", "SEO", "Lead Generation"],
+  //     achievements: [
+  //       "Built a responsive agency website with Elementor",
+  //       "Included lead capture forms to generate inquiries",
+  //       "Applied SEO best practices for visibility",
+  //     ],
+  //     Live: "https://westerndigitalmarketing.com.au/",
+  //     codeLink: "#",
+  //   },
+  //   {
+  //     title: "Chippy Cabinets Website",
+  //     image: "/images/projects/chippyCabinets.png",
+  //     description:
+  //       "A premium joinery website showcasing custom cabinetry services across Melbourne with a focus on craftsmanship and client trust.",
+  //     technologies: ["WordPress", "Elementor", "Custom CSS", "SEO"],
+  //     achievements: [
+  //       "Built a conversion-driven WordPress website highlighting services and unique selling points",
+  //       "Emphasized expert craftsmanship, customer satisfaction, and diverse installations",
+  //       "Created sections like 'Why Choose Us' and 'Built for Life' for trust-building",
+  //       "Optimized layout and images for performance and SEO",
+  //     ],
+  //     Live: "https://chippycabinets.com.au/",
+  //     codeLink: "#",
+  //   },
+  //   {
+  //     title: "Aariv Diamonds & Jewellery Website",
+  //     image: "/images/projects/aarivjewellery.png",
+  //     description:
+  //       "A WordPress-based e-commerce platform for showcasing traditional and contemporary jewellery with a premium shopping experience.",
+  //     technologies: ["WordPress", "WooCommerce", "PHP", "JavaScript", "CSS"],
+  //     achievements: [
+  //       "Created a custom-designed WordPress theme tailored for jewellery e-commerce",
+  //       "Integrated secure WooCommerce payment and checkout functionalities",
+  //       "Showcased diverse collections including solitaires, kundan, polki, and gemstone jewellery",
+  //       "Optimized website speed and SEO with lazy loading and compressed media assets",
+  //       "Implemented responsive UI with high-quality visuals for mobile and desktop users",
+  //     ],
+  //     Live: "https://aarivjewellery.com/",
+  //     codeLink: "#",
+  //   },
+  //   {
+  //     title: "Gopalak Farms Shopify Website",
+  //     image: "/images/projects/gopalakfarms.png",
+  //     description:
+  //       "A Shopify-based e-commerce store for premium farm products with a clean, responsive design and smooth shopping experience.",
+  //     technologies: ["Shopify", "Liquid", "CSS", "JavaScript"],
+  //     achievements: [
+  //       "Built a clean, responsive Shopify store",
+  //       "Customized product pages using Liquid templates",
+  //       "Optimized store performance and mobile UX",
+  //     ],
+  //     Live: "https://gopalakfarms.com/",
+  //     codeLink: "#",
+  //   },
+  // ];
 
   const renderProjectSection = (
   title: string,
@@ -309,10 +309,10 @@ const Projects = () => {
         {renderProjectSection("Backend Projects", backendProjects)}
 
         {/* WordPress & Shopify Projects */}
-        {renderProjectSection(
+        {/* {renderProjectSection(
           "WordPress & Shopify Projects",
           wordpressProjects
-        )}
+        )} */}
       </div>
     </section>
   );
